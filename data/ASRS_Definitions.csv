@@ -1,0 +1,377 @@
+,Acronym,Definition
+0,AC,Alternating Current
+1,ACARS,Automatic Communications Addressing & Reporting System
+2,ACFT,Aircraft
+3,ACR,Air Carrier Service
+4,ADG,Air Driven Generator  Service
+5,ADIZ,Air Defense Identification Zone  
+6,AERO,Aeronautical
+7,AFD,Airport/Facility Directory
+8,AFDS,Autopilot and Flight Director System 
+9,AFSS,Automated Flight Service Station
+10,AGL,Above Ground Level  
+11,AIM,Aeronautical Information Manual
+12,ALS,Automatic Landing System ING
+13,ALSF-2,Approach Lighting System With
+14,ALTDEV,Altitude Deviation
+15,AMB,Ambiguity
+16,AME,Aviation Medical Examiner
+17,ANG,Air National Guard
+18,APPROX,Approximately
+19,APU,Auxiliary Power Unit
+20,ARR,"Arrival, Arrive"
+21,ARSR,Air Route Surveillance Radar
+22,ARTCC,Air Route Traffic Control Center
+23,ARTS,Automated Radar Terminal Systems 
+24,ASAP,As Soon As Possible
+25,ASOS/AWOS,Automated Surface Observation System
+26,ASR,Airport Surveillance Radar
+27,ASRS,Following are standard  Encode and Decode terms.
+28,ATA,Actual Time Of Arrival
+29,ATC,Air Traffic Control
+30,ATCT,Airport Traffic Control Tower  Balance
+31,ATD,Actual Time Of Departure
+32,ATIS,Automatic Terminal Information Service 
+33,ATOG,Allowable Takeoff Gross Weight
+34,ATP,Airline Transport Pilot Certificate
+35,ATR,Airline Transport Rating
+36,AUTH,Authority/Authorized
+37,AUTO,Automatic
+38,AUX,Auxiliary
+39,AVG,Average
+40,AVGAS,Aviation Gasoline
+41,AWOS,Automated Surface Observation Sys (Or Weather Observation Sys) 
+42,BAL,"(S,ED"
+43,BC,Back Course
+44,BCSTN,Broadcast Station
+45,BFR,Biennial Flight Review
+46,BKN,Broken
+47,BRITE,Bright Radar Indicator Tower Equipment 
+48,BTWN,Between
+49,BVLOS,Beyond Visual Line Of Sight
+50,CAB,Cabin Attendant
+51,CADC,Central Air Data Computer  Degree DEG(S)
+52,CAP,Civil Air Patrol
+53,CAPT,Captain
+54,CARB,Carburetor
+55,CAT,Clear Air Turbulence  System
+56,CAWS,Central Aural Warning System
+57,CB,Circuit Breaker  Destination DEST(S)
+58,CBO,Community Based Organization
+59,CD,Clearance Delivery
+60,CDI,Sys (Or Weather Observation Sys)  Course Deviation Indicator
+61,CDT,Central Daylight Time  Department DEPT(S)
+62,CDU,Control Display Unit
+63,CFIT,Controlled Flight Into Terrain
+64,CFR,Crash Fire Rescue Equipment
+65,CGP,Company Ground Personnel
+66,CHK,Check
+67,CIC,Controller In Charge
+68,CLB,Climb
+69,CLR,Clear
+70,COA,Certificate Of Authorization
+71,CONFIG,Configuration
+72,COORD,Coordination  Alerting System
+73,COW,Certificate Of Waiver  Departure DEP(S)
+74,CPU,Central Processing Unit EMER(S) Emergency
+75,CRM,Cockpit Resource Management
+76,CSD,Constant Speed Drive
+77,CTAF,Common Traffic Advisory Frequency 
+78,CTL,Control
+79,CTLR,Controller
+80,CTR,Center
+81,DAA,Detect and Avoid
+82,DB,Decibel
+83,DCU,Data Control Unit
+84,DEMO,Demonstration
+85,DGPS,Differential Global Positioning System 
+86,DH,Celsius C Decision Height
+87,DISTR,Distraction
+88,DME,Distance Measuring Equipment
+89,DOD,Department Of Defense Commission
+90,DSCNT,ING) Descent
+91,DVFR,Defense Visual Flight Rules
+92,EAC,Expected Approach Clearance
+93,EAT,Expected Approach Time
+94,EBND,ING) Climb  Eastbound
+95,ECAM,Marker
+96,ECOA,Emergency Certificate Of
+97,EDT,Eastern Daylight Time
+98,EFIS,Electronic Flight Instrument System
+99,EICAS,Engine Indicating and Crew Alerting System 
+100,EMI,Electromagnetic Interference
+101,EQUIP,Equipment
+102,EROPS,Control  Extended Range Operations
+103,ESC,Electronic Speed Control
+104,EST,Eastern Standard Time
+105,ETA,Estimated Time Of Arrival
+106,ETD,Estimated Time Of Departure
+107,ETOPS,Extended Range Twin Operations
+108,EVAC,"Evacuate/Evacuation  (S,ED)"
+109,EVAL,"Evaluate, Evaluation"
+110,EXAM,Examination
+111,FAA,Federal Aviation Administration
+112,FAC,Facility
+113,FAM,Federal Air Marshal  Ground
+114,FAX,Facsimile
+115,FBO,Fixed-Base Operator
+116,FCC,Federal Communications Commission
+117,FCDU,Flight Control Data Concentrator  Helicopter HELI(S)
+118,FD,Flight Director  High Intensity Approach Light
+119,FGC,Flight Guidance Computer High Intensity Approach Light
+120,FGS,Flight Guidance Unit
+121,FIDO,Flight Inspection District Office
+122,FL,Flight Level
+123,FLC,Flight Crew
+124,FLIP,Flight Information Publication  Horizontal HORIZ(LY)
+125,FLT,Flight
+126,FM,Frequency Modulation
+127,FMA,Flight Mode Annunciator
+128,FMC,Flight Management Computer
+129,FMGC,Flight Management Guidance Computer 
+130,FMGS,Flight Management Guidance System 
+131,FO,First Officer  Heading HDG(S)
+132,FOV,Field Of View  Handoff HDOF(S)
+133,FPM,Feet Per Minute
+134,FPV,First Person View
+135,FRIA,FAA-Recognized Identification Area
+136,FSDO,Flight Standards District Office
+137,FSS,Flight Service Station
+138,FT,Feet/Foot
+139,GA,General Aviation
+140,GADO,General Aviation District Office
+141,GAR,Go Around
+142,GC,Ground Control
+143,GCS,Ground Control Station
+144,GHZ,Gigahertz
+145,GMT,Greenwich Mean Time (Zulu/UTC)
+146,GND,"(S,ED"
+147,GNS,Global Navigation System
+148,GOV,Government
+149,GPS,Global Positioning System
+150,GPWS,Ground Proximity Warning System
+151,GS,Glideslope (One Word)
+152,HF,High Frequency
+153,HGT,FE('S) Flight Engineer  Height
+154,HIALS,High Intensity Approach Light System 
+155,HIRL,High Intensity Runway Lights
+156,HQ,Headquarters
+157,HR,"(S,LY) Hour"
+158,HSI,Horizontal Situation Indicator
+159,HUD,Head Up Display
+160,HVY,Heavy
+161,HWY,Highway
+162,HYD,Hydraulic
+163,HZ,Computer  Hertz
+164,IAF,Initial Approach Fix
+165,IAP,Instrument Approach Procedure
+166,IATA,International Air Transport Association 
+167,IAW,In Accordance With
+168,ICAO,International Civil Aviation Organization 
+169,ID,Identification
+170,IDENT,Identify
+171,IF,Intermediate Fix
+172,IFF,"System Identification, Friend Or Foe"
+173,IFR,Instrument Flight Rules
+174,IFSS,International Flight Service Station
+175,II,Sequenced Flashers (Cat  Config)
+176,ILS,Compass Locator At  Outer
+177,IMU,Inertial Measurement Unit
+178,INBND,Inbound
+179,INC,Flight Service Station Specialist FSS('S) Incorporated
+180,INFO,Information
+181,INOP,Inoperative
+182,INS,Frequency FREQ(S) Inertial Navigation System
+183,INTERFAC,Interfacility
+184,INTERP,Interpretation  Medium Intensity Approach
+185,INTL,International
+186,INTXN,Intersection
+187,IOE,Initial Operating Experience
+188,IRO,International Relief Officer  Lighting System
+189,IRS/IRU,Inertial Reference System/Unit
+190,ISDU,HDG(S) Heading  Inertial Navigation Display Unit
+191,ISTR,"HDOF(S) Handoff  Instruct, Instructor"
+192,KG,Kilogram
+193,KHZ,Kilohertz
+194,KIAS,Knots Indicated Airspeed
+195,KW,Kilowatt
+196,L/R,Left/Right (Directions)
+197,LAANC,Low-Altitude Authorization and Notification Capability 
+198,LC,Local Control
+199,LCL,Local
+200,LIPO,Lithium Polymer Battery  Minimum Obstruction Clearance
+201,LLWAS,Low Level Wind Shear Alert System MIN(S) Minute(S)
+202,LMM,Compass Locator At ILS Middle Marker 
+203,LNAV,Lateral Navigation  Milliampere Hour mAh
+204,LOC,Localizer
+205,LOM,Electronic Centralized Aircraft
+206,LONG,Longitude
+207,LORAN,Long Range Navigation
+208,MAG,Magnetic
+209,MAINT,Maintenance
+210,MALS,Medium Intensity Approach Lighting System 
+211,MALSF,Medium Intensity Approach Lighting System With Sequenced Flashing Lights
+212,MALSR,Lighting System With Runway
+213,MAP,Notification Capability Missed Approach Point
+214,MAX,Maximum
+215,MCAS,Marine Corps Air Station
+216,MCP,KT(S) Knot(S)  Mode Control Panel
+217,MDT,Mountain Daylight Time
+218,MEA,Minimum Enroute Altitude
+219,MECH,International Civil Aviation Mechanic
+220,METRO,Metropolitan
+221,MF,Medium Frequency
+222,MGR,Manager
+223,MHZ,Megahertz
+224,MIC,Microphone MIKE
+225,MISC,Miscellaneous
+226,MOCA,Minimum Obstruction Clearance Altitude 
+227,MSA,Minimum Safe Altitude
+228,MSAW,Minimum Safe Altitude Warning
+229,MSG,Message
+230,MSL,Association Mean Sea Level
+231,MUNI,Municipal  Pilot Report PIREP(S)
+232,MVA,Minimum Vector Altitude
+233,MVFR,Marginal Visual Flight Rules
+234,NAS,Naval Air Station
+235,NASA,Aviation Safety Reporting System
+236,NATL,National
+237,NAV,"Navigate, Navigation  (S,ING)"
+238,NAVAID,Navigational Aid
+239,NBND,Northbound
+240,NDB,Nondirectional Radio Beacon
+241,NFCT,Non Federal Control Tower
+242,NFZ,No-Fly Zone
+243,NM,Nautical Mile
+244,NMAC,Near Midair Collision
+245,NOAA,National Oceanic and Atmospheric Administration 
+246,NORAC,No Radio Contact
+247,NORDO,No Radio
+248,NOTAM,Notice to Airmen / of Air Missions
+249,NTSB,National Transportation Safety Board 
+250,NWS,National Weather Service
+251,OAT,Outside Air Temperature
+252,OM,Outer Marker
+253,ONS,Omega Navigation System REG(S) Regulation
+254,OPDEV,Operational Deviation  Ram Air Turbine/Ram Air
+255,OPERROR,Operational Error  Temperature
+256,OVCST,Overcast
+257,PA,Public Address
+258,PAPI,Precision Approach Path Indicator
+259,PAR,Precision Approach Radar
+260,PAX,Passenger
+261,PCA,Positive Control Area
+262,PCL,Pilot Controlled Lighting
+263,PCU,National Transportation Safety Power Control Unit
+264,PDC,Pre Departure Clearance
+265,PDT,Pacific Daylight Time
+266,PF,Pilot Flying
+267,PIC,Pilot In Command
+268,PLT,"(S,'S) Pilot"
+269,PLTDEV,Pilot Deviation
+270,PM,Post Meridiem
+271,PMC,Pilot Manipulating Controls S South
+272,POI,Point Of Interest
+273,POS,Position
+274,PRECIP,Precipitation
+275,PROX,Proximity
+276,PUB,Publication
+277,PVT,Private
+278,PWR,Administration Power
+279,QFE,Flight Attendant FA('S) Height Above Airport Elevation
+280,QRH,North N Quick Reference Handbook
+281,RA,Resolution Advisory
+282,RAIL,Board  Runway Alignment Indicator Lights
+283,RAPCON,Radar Approach Control
+284,RAT,Ram Air Turbine/Ram Air Temperature 
+285,RC,Radio Controlled
+286,REIL,OP(S) Operation(S)  Runway End Identifier Lights
+287,RMI,Operation(S) OP(S) Radio Magnetic Indicator
+288,RNAV,Area Navigation
+289,RPA,Remotely Piloted Aircraft
+290,RPAS,Remotely Piloted Aircraft System
+291,RPIC,Remote Pilot in Command
+292,RPM,Revolutions Per Minute
+293,RPV,Remotely Piloted Vehicle
+294,RTB,Return to Base
+295,RTE,Route  Takeoff TKOF(S)
+296,RTF,Ready to Fly
+297,RTH,Return to Home
+298,RTL,Return to Launch
+299,RTO,Rejected Takeoff
+300,RVR,Runway Visual Range  Temperature TEMP(S)
+301,RVV,Runway Visibility Value
+302,SBND,Southbound
+303,SELCAL,Selective Calling  Thunderstorm TSTM(S)
+304,SFL,Sequenced Flashing Lights
+305,SGI,Special Government Interest
+306,SID,Standard Instrument Departure
+307,SIGMET,Significant Meteorological Information 
+308,SIT,Situation
+309,SM,Statute Mile
+310,SOP,Standard Operating Procedure
+311,SOSC,System Operations Support Center
+312,STAR,Standard Terminal Arrival Route
+313,STD,Standard
+314,STOL,Short Takeoff and Landing  Tower TWR(S)
+315,SYS,System VERT(LY) Vertical
+316,TA,Traffic Advisory
+317,TACAN,Tactical Air Navigation Aid
+318,TAS,True Air Speed
+319,TCA,Runway(S) RWY(S) Terminal Control Area
+320,TCAS,Traffic Alert and Collision Avoidance System
+321,TDZ,Service SVC(S) Touchdown Zone
+322,TELCO,Telephone Company
+323,TFC,Significant Meteorological Traffic
+324,TOC,Top Of Climb
+325,TOD,Top Of Descent
+326,TOGW,Takeoff Gross Weight
+327,TRACON,Terminal Radar Approach Control Facility 
+328,TRNG,South S Training
+329,TRSA,Terminal Radar Service Area
+330,TURB,Turbulence
+331,TX,Transmitter
+332,UA,Unmanned Aircraft
+333,UAP,Unidentified Anomalous Phenomena
+334,UAS,Unmanned Aircraft System
+335,UASFM,Unmanned Aircraft Systems Facility
+336,UAV,Unmanned Aerial Vehicle
+337,UFO,Unidentified Flying Object
+338,UHF,Ultra High Frequency
+339,UNAUTH,Unauthorized
+340,USA,Sequenced Flashers (Cat I Config) United States Army
+341,USCG,United States Coast Guard
+342,USMC,United States Marine Corps
+343,USN,United States Navy
+344,UTC,Universal Time Coordinated
+345,UTM,Unmanned Aircraft Systems Traffic Management
+346,VASI,Visual Approach Slope Indicator
+347,VFR,Visual Flight Rules
+348,VHF,Very High Frequency
+349,VIS,Visibility
+350,VLF,Very Low Frequency
+351,VLOS,Visual Line of Sight
+352,VMC,Visual Meteorological Conditions
+353,VNAV,Vertical Navigation
+354,VO,Visual Observer
+355,VSTOL,Vertical/Short Takeoff and Landing
+356,WAC,World Aeronautical Chart
+357,WBND,Westbound
+358,WK,"Week"
+359,WX,Weather
+360,XCOUNTRY,Cross Country
+361,XING,Crossing
+362,XMISSION,Transmission
+363,XMIT,"Transmitter (S,TING) Transmit"
+364,XPONDER,Specification SPEC(S) Transponder
+365,XWIND,Crosswind
+366,ZZZ,<Airport  (Domestic)>
+367,ZZZ1,<Airport>
+368,ZZZZ,<Airport (Foreign)>
+369,ZZZZZ,<Fix / Intersection>
+370,CLRNC,Clearance
+371,HDG,Heading
+372,MEL,Minimum Equipment List
+373,ENG,Engine
+374,VERT(LY),Vertical
+375,ENRTE,En Route
